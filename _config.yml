@@ -17,8 +17,7 @@ favicon: favicon.ico
 
 repository: zuiyue/zuiyue.github.io
 github_url: https://github.com/zuiyue
-url: http://www.zuiyue.com
-enforce_ssl: zuiyue.com
+url: https://zuiyue.github.io
 
 ## Gem
 plugins:
